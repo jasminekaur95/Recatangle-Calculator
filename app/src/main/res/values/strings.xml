@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rectangle Calculator</string>
+    <string name="width_label">Width</string>
+    <string name="width_value">e.g. 10.50</string>
+    <string name="height_label">Height</string>
+    <string name="height_value" translatable="false">e.g. 20.40</string>
+    <string name="area_label">Area</string>
+    <string name="perimeter_label">Perimeter</string>
+    <string name="area_value">Total Area</string>
+    <string name="perimeter_value">Total Perimeter</string>
+    <string name="button_calculate">Calculate</string>
+</resources>
